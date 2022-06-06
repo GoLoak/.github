@@ -11,12 +11,12 @@
 - (CC) C7291F2464 - Daffa Akhdan Fadhillah - University of Pasundan
 
 ## Summary
-" GoLoak is a waste sales application using deep learning technology, we can analyze the type of waste and will produce data which is finally automatically filled in for sales which will generate points besides that it aims to increase community enthusiasm in managing waste with the aim of supporting government programs to reduce waste. 30% plastic and 70% other waste until 2025, for that the government reduces waste through the 3R (Reduce, Reuse, Recycle) movement."
+ GoLoak is a waste sales application using deep learning technology, we can analyze the type of waste and will produce data which is finally automatically filled in for sales which will generate points besides that it aims to increase community enthusiasm in managing waste with the aim of supporting government programs to reduce waste. 30% plastic and 70% other waste until 2025, for that the government reduces waste through the 3R (Reduce, Reuse, Recycle) movement.
 
 ## Advanced Information
-- [Cloud Computing](CC/README.md)
-- [Mobile Development](MD/README.md)
-- [Machine Learning](ML/README.md)
+- [Cloud Computing](../profile/CC/README.md)
+- [Mobile Development](../profile/MD/README.md)
+- [Machine Learning](../profile/ML/README.md)
 
 
 
