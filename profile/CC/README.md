@@ -3,7 +3,7 @@
 - [GoLoak REST API](https://github.com/GoLoak/GoLoak-Cloud-Computing)
 
 ## Design Architecture
-
+![GCP](../CC/img/GCP-Diagram.jpg)
 
 ## Tools & IDE
 * VS Code
